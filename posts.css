@@ -1,0 +1,9 @@
+@media (max-width: 991.98px) {
+  .overflow-scroll-sm-md {
+    max-height: 150px;
+    overflow: scroll;
+  }
+}
+.cardHeight {
+  height: min-content;
+}
